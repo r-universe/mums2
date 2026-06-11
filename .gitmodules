@@ -5,3 +5,6 @@
 [submodule "mpactr"]
 	path = mpactr
 	url = https://github.com/mums2/mpactr
+[submodule "mums2"]
+	path = mums2
+	url = https://github.com/mums2/mums2
